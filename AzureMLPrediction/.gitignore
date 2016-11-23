@@ -1,0 +1,4 @@
+env/
+*.pyproj.user
+*.pyc
+*.suo

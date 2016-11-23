@@ -1,0 +1,5 @@
+requests==2.11.1
+azureml==0.2.7
+numpy==1.11.2+mkl
+pandas==0.19.0
+enum34==1.1.6

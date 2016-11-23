@@ -1,0 +1,8 @@
+[MASTER]
+
+min-public-methods=1
+max-too-many-arguments=6
+
+[MESSAGES CONTROL]
+
+disable=C0111, R0903, R0913, C0304
